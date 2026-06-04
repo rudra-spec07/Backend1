@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Sai Krupa Mess",
+    "location": "Wakad",
+    "price": 3500,
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "name": "Annapurna Veg Mess",
+    "location": "Akurdi",
+    "price": 3200,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "HealthyBites Tiffin",
+    "location": "Hinjewadi",
+    "price": 2800,
+    "rating": 4.1
+  }
+]
